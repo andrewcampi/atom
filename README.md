@@ -38,6 +38,13 @@ Ensure you have Python 3 installed on your system. Atom's dependencies are liste
 pip3 install -r requirements.txt
 ```
 
+### Configuration
+
+#### `helper/project_secrets.py`
+
+Your OpenAI API key needs to be stored here. It's crucial to keep this file secure and not share its contents publicly.
+
+
 ### Running Atom
 
 To run Atom's server:
