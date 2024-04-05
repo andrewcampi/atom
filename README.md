@@ -70,4 +70,4 @@ Refer to the detailed API documentation included in the UI for information on ho
 
 For a comprehensive overview and a demo of Atom in action, check out this example video:
 
-[![Watch the video](images/cover.png)](videos.mp4)
+https://youtu.be/uWRG7rv38jI
