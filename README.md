@@ -68,6 +68,6 @@ Refer to the detailed API documentation included in the UI for information on ho
 
 ## Video Overview
 
-For a comprehensive overview and a demo of Atom in action, check out our video:
+For a comprehensive overview and a demo of Atom in action, check out this example video:
 
 [![Watch the video](images/cover.png)](videos.mp4)
