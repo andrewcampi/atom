@@ -8,9 +8,11 @@ Atom is a state-of-the-art penetration testing (pentest) assistant designed to e
 
 ### What is Penetration Testing?
 
-Penetration Testing, or pentesting, is a simulated cyber attack against your computer system to check for exploitable vulnerabilities. In the context of web application security, pentesting is used to augment a web application firewall (WAF).
+Penetration Testing, or pentesting, is a simulated cyber attack against your computer or network to check for exploitable vulnerabilities.
 
 Pentesting can involve the attempted breaching of any number of application systems, (e.g., application protocol interfaces (APIs), frontend/backend servers) to uncover vulnerabilities, such as unsanitized inputs that are susceptible to code injection attacks.
+
+The goal of the pentest is to discover these vulnerabilities, determine there severity by attempting to exploit them, and provide a detailed report back of what was vulnerable and how to fix it.
 
 ### Features
 
