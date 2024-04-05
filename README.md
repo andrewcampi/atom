@@ -4,7 +4,7 @@
 
 ## Overview
 
-Atom is a penetration testing (pentest) AI assistant designed to empower security professionals and enthusiasts alike. By leveraging the power of GPT-4, Atom provides a conversational interface to assist users in mapping, understanding, and exploiting their attack surface with unparalleled efficiency and insight.
+Atom is a penetration testing (pentest) AI assistant designed to empower security professionals and enthusiasts alike. By leveraging the power of GPT-4, Atom provides a conversational interface to assist users in mapping, understanding, and exploiting their attack surface with a new level of insight.
 
 ### What is Penetration Testing?
 
