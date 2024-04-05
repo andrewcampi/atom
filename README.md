@@ -1,4 +1,4 @@
-# Atom: Your Penetration Testing Assistant
+# Atom: Penetration Testing AI Assistant
 
 ![Atom Cover Image](images/cover.png)
 
