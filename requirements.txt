@@ -1,4 +1,4 @@
 pywebio
 pycvesearch
-cloudscrape
+cloudscraper
 bs4
